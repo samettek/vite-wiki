@@ -121,4 +121,4 @@ kill -9 27268
 
 ### 查看节点排名
 
-[https://explorer.vite.net/SBPList](https://explorer.vite.net/SBPList)
+[https://vitescan.io/sbps](https://vitescan.io/sbps)
